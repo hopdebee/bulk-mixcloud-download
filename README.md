@@ -1,4 +1,4 @@
-# bulk-mixcloud-download
+# bulk-mixcloud-download (deprecated)
 using selenium to bulk download all mixes from a mixcloud user via http://www.mixcloud-downloader.com/ hyperfast.
 
 ## requirements
